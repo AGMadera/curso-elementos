@@ -8,7 +8,7 @@ Plantilla con Spring boot noviembre 2015
             <dependency>
                 <groupId>io.spring.platform</groupId>
                 <artifactId>platform-bom</artifactId>
-                <version>1.0.1.RELEASE</version>
+                <version>1.0.4.RELEASE</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
